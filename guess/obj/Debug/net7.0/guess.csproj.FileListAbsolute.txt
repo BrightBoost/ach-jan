@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/guess/bin/Debug/net7.0/guess
+/Users/maaikevanputten/Projects/jan-course2/guess/bin/Debug/net7.0/guess.deps.json
+/Users/maaikevanputten/Projects/jan-course2/guess/bin/Debug/net7.0/guess.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/guess/bin/Debug/net7.0/guess.dll
+/Users/maaikevanputten/Projects/jan-course2/guess/bin/Debug/net7.0/guess.pdb
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.dll
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/refint/guess.dll
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.pdb
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/guess.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/guess/obj/Debug/net7.0/ref/guess.dll

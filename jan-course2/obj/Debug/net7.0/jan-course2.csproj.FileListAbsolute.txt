@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/bin/Debug/net7.0/jan-course2
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/bin/Debug/net7.0/jan-course2.deps.json
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/bin/Debug/net7.0/jan-course2.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/bin/Debug/net7.0/jan-course2.dll
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/bin/Debug/net7.0/jan-course2.pdb
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.dll
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/refint/jan-course2.dll
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.pdb
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/jan-course2.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/jan-course2/obj/Debug/net7.0/ref/jan-course2.dll
