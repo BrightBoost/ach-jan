@@ -24,19 +24,19 @@ namespace jan_course2
 			set => _naam = value;
 		}
 
-		public void bijtInTV()
+		public void BijtInTV()
 		{
 			Console.WriteLine("Mijn baasje gaat niet blij zijn... HAP HAP KRAB");
 			aantalLevens--;
 			Console.WriteLine("Aantal levens over: " + aantalLevens);
 		}
 
-		public string geefCadeautje()
+		public string GeefCadeautje()
 		{
 			return "Bluhg... Haarbal";
 		}
 
-		public void geefEten(string eten)
+		public void GeefEten(string eten)
 		{
 			if(eten.Contains("brokken"))
 			{
