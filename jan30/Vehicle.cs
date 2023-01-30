@@ -10,8 +10,10 @@ namespace jan30
 			get; set;
 		}
 
-		public Vehicle()
+		public Vehicle(double weight)
 		{
+			_weight = weight;
+			Console.WriteLine("In the vehicle constructor");
 		}
 
 		public void Start()
