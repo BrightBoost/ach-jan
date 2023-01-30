@@ -124,6 +124,7 @@ class Program
         Console.WriteLine(secret);
 
         Cat c = new Cat("Marvel");
+        c.kleur = "tijgergrijs";
         Console.WriteLine(c.aantalLevens);
         c.BijtInTV();
         Console.WriteLine(c.GeefCadeautje());
@@ -131,6 +132,7 @@ class Program
         
 
         Cat c1 = new Cat(3, "Blackie");
+        c1.kleur = "zwart";
         Console.WriteLine(c1.aantalLevens);
         c1.BijtInTV();
         string cadeautje = c1.GeefCadeautje();
@@ -139,6 +141,16 @@ class Program
         DateTime date = new DateTime(2023, 1, 31, 9, 30, 0);
         c1.GeefEten("kip", 4);
 
+        Cat c2 = new Cat("Lila");
+        //Cat c3 = new Cat(Kleur.PAARS);
+
+        Animal a = new Cat(); 
+        a = new Animal("paars");
+
+        c.GreetOtherAnimal(c1);
+        c.GreetOtherAnimal(a);
+
+        Object o = new Object();
 
     }
 }

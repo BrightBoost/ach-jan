@@ -1,7 +1,7 @@
 ﻿using System;
 namespace jan_course2
 {
-	public class Cat
+	public class Cat: Animal
 	{
 		private int _aantalLevens;
 		private string _naam;
@@ -56,23 +56,30 @@ namespace jan_course2
 			}
 		}
 
-		// custom constructor
-		public Cat(int aantalLevens, string naam)
+        public override void Eat()
+        {
+			//base.Eat();
+			Console.WriteLine("Cat eats");
+        }
+
+        // custom constructor
+        public Cat(int aantalLevens, string naam) : base("beige")
 		{
-			_aantalLevens = aantalLevens;
-			_naam = naam;
+			this.aantalLevens = aantalLevens;
+			this.naam = naam;
 		}
 
-		public Cat(string naam)
-		{
-			_aantalLevens = 9;
-			_naam = naam;
+
+		public Cat(string naam) : this(9, naam)
+        {
+		
 		}
 
-		public Cat()
+		public Cat() : this("Minoes")
 		{
 
 		}
+
 	}
 }
 

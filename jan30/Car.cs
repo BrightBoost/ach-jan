@@ -12,6 +12,8 @@ namespace jan30
 		{
             Console.WriteLine("In the car constructor zonder weight");
         }
+
+        
     }
 }
 
