@@ -48,6 +48,14 @@ namespace jan_course2
 			}
 		}
 
+		public void GeefEten(string eten, double aantal)
+		{
+			for(int i = 0; i < aantal; i++)
+			{
+				Console.WriteLine("Jammie " + eten);
+			}
+		}
+
 		// custom constructor
 		public Cat(int aantalLevens, string naam)
 		{
@@ -59,6 +67,11 @@ namespace jan_course2
 		{
 			_aantalLevens = 9;
 			_naam = naam;
+		}
+
+		public Cat()
+		{
+
 		}
 	}
 }

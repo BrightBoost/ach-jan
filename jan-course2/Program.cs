@@ -137,6 +137,7 @@ class Program
         Console.WriteLine(cadeautje);
         c1.GeefEten("brokken vis");
         DateTime date = new DateTime(2023, 1, 31, 9, 30, 0);
+        c1.GeefEten("kip", 4);
 
 
     }
