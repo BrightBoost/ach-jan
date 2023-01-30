@@ -48,8 +48,17 @@ namespace jan_course2
 			}
 		}
 
-		public Cat()
+		// custom constructor
+		public Cat(int aantalLevens, string naam)
 		{
+			_aantalLevens = aantalLevens;
+			_naam = naam;
+		}
+
+		public Cat(string naam)
+		{
+			_aantalLevens = 9;
+			_naam = naam;
 		}
 	}
 }

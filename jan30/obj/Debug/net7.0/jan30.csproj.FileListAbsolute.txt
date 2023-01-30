@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/jan30/bin/Debug/net7.0/jan30
+/Users/maaikevanputten/Projects/jan-course2/jan30/bin/Debug/net7.0/jan30.deps.json
+/Users/maaikevanputten/Projects/jan-course2/jan30/bin/Debug/net7.0/jan30.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/jan30/bin/Debug/net7.0/jan30.dll
+/Users/maaikevanputten/Projects/jan-course2/jan30/bin/Debug/net7.0/jan30.pdb
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.dll
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/refint/jan30.dll
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.pdb
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/jan30.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/jan30/obj/Debug/net7.0/ref/jan30.dll

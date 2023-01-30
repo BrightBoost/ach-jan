@@ -123,22 +123,20 @@ class Program
 
         Console.WriteLine(secret);
 
-        Cat c = new Cat();
-        c.aantalLevens = 9;
-        c.naam = "Marvel";
+        Cat c = new Cat("Marvel");
         Console.WriteLine(c.aantalLevens);
-        c.bijtInTV();
-        Console.WriteLine(c.geefCadeautje());
-        c.geefEten("Paté");
+        c.BijtInTV();
+        Console.WriteLine(c.GeefCadeautje());
+        c.GeefEten("Paté");
+        
 
-        Cat c1 = new Cat();
-        c1.aantalLevens = 3;
-        c1.naam = "Blackie";
+        Cat c1 = new Cat(3, "Blackie");
         Console.WriteLine(c1.aantalLevens);
-        c1.bijtInTV();
-        string cadeautje = c1.geefCadeautje();
+        c1.BijtInTV();
+        string cadeautje = c1.GeefCadeautje();
         Console.WriteLine(cadeautje);
-        c1.geefEten("brokken vis");
+        c1.GeefEten("brokken vis");
+        DateTime date = new DateTime(2023, 1, 31, 9, 30, 0);
 
 
     }
