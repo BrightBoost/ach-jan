@@ -1,8 +1,10 @@
 ﻿using System;
 namespace OOPexercise
 {
-	public class Square: FourSidedShape
+	public sealed class Square: FourSidedShape
 	{
+        public static int angle = 90;
+        public static string description = "Shape with 4 sides, A and C are equal and B and D are equal";
 
         private double _sideA;
         private double _sideB;
@@ -58,6 +60,11 @@ namespace OOPexercise
             _sideD = side;
             CalcSurface();
             CalcCircumference();
+        }
+
+        public static double CalcSurfaceSquare(double side)
+        {
+            return side * side;
         }
     }
 }
