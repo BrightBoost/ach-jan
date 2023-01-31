@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/bin/Debug/net7.0/OOPexercise
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/bin/Debug/net7.0/OOPexercise.deps.json
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/bin/Debug/net7.0/OOPexercise.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/bin/Debug/net7.0/OOPexercise.dll
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/bin/Debug/net7.0/OOPexercise.pdb
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.dll
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/refint/OOPexercise.dll
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.pdb
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/OOPexercise.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/OOPexercise/obj/Debug/net7.0/ref/OOPexercise.dll
