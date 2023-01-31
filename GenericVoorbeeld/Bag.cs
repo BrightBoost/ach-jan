@@ -1,14 +1,16 @@
 ﻿using System;
 namespace GenericAndCollectionsVoorbeeld
 {
-	public class Kan<T>
+	public class Bag<T>
 	{
 		public T Inhoud { get; set; }
 
-		public Kan(T inhoud)
+		public Bag(T inhoud)
 		{
 			Inhoud = inhoud;
 		}
+
+
 	}
 }
 

@@ -1,10 +1,15 @@
 ﻿using System;
-namespace GenericVoorbeeld
+namespace GenericAndCollectionsVoorbeeld
 {
 	public class KoffieKan
 	{
-		public KoffieKan()
+		public Koffie Inhoud
 		{
+			get; set;
+		}
+		public KoffieKan(Koffie inhoud)
+		{
+			Inhoud = inhoud;
 		}
 	}
 }

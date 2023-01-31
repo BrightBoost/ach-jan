@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericVoorbeeld.csproj",
-      "projectName": "GenericVoorbeeld",
-      "projectPath": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericVoorbeeld.csproj",
+      "projectUniqueName": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj",
+      "projectName": "GenericAndCollectionsVoorbeeld",
+      "projectPath": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj",
       "packagesPath": "/Users/maaikevanputten/.nuget/packages/",
       "outputPath": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/",
       "projectStyle": "PackageReference",

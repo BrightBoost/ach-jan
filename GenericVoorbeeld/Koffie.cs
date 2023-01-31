@@ -1,5 +1,6 @@
-﻿using System;
-namespace GenericVoorbeeld
+﻿
+using System;
+namespace GenericAndCollectionsVoorbeeld
 {
 	public class Koffie
 	{

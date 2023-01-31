@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jan30", "jan30\jan30.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPexercise", "OOPexercise\OOPexercise.csproj", "{B34C4BA7-EE40-4BA3-A68B-8F7B5EE796F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericVoorbeeld", "GenericVoorbeeld\GenericVoorbeeld.csproj", "{F39B3A9E-00B8-4110-AD82-73E34B36F4B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericAndCollectionsVoorbeeld", "GenericVoorbeeld\GenericAndCollectionsVoorbeeld.csproj", "{F39B3A9E-00B8-4110-AD82-73E34B36F4B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

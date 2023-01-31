@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/bin/Debug/net7.0/GenericVoorbeeld
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/bin/Debug/net7.0/GenericVoorbeeld.deps.json
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/bin/Debug/net7.0/GenericVoorbeeld.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/bin/Debug/net7.0/GenericVoorbeeld.dll
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/bin/Debug/net7.0/GenericVoorbeeld.pdb
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.dll
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/refint/GenericVoorbeeld.dll
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.pdb
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/GenericVoorbeeld.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/Debug/net7.0/ref/GenericVoorbeeld.dll
