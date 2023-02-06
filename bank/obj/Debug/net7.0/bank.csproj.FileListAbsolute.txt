@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/bank/bin/Debug/net7.0/bank
+/Users/maaikevanputten/Projects/jan-course2/bank/bin/Debug/net7.0/bank.deps.json
+/Users/maaikevanputten/Projects/jan-course2/bank/bin/Debug/net7.0/bank.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/bank/bin/Debug/net7.0/bank.dll
+/Users/maaikevanputten/Projects/jan-course2/bank/bin/Debug/net7.0/bank.pdb
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.dll
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/refint/bank.dll
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.pdb
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/bank.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/bank/obj/Debug/net7.0/ref/bank.dll
