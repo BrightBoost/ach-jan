@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj": {}
+    "/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/exceptionsEnzo.csproj": {}
   },
   "projects": {
-    "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj": {
+    "/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/exceptionsEnzo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj",
-        "projectName": "GenericVoorbeeld",
-        "projectPath": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/GenericAndCollectionsVoorbeeld.csproj",
+        "projectUniqueName": "/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/exceptionsEnzo.csproj",
+        "projectName": "exceptionsEnzo",
+        "projectPath": "/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/exceptionsEnzo.csproj",
         "packagesPath": "/Users/maaikevanputten/.nuget/packages/",
-        "outputPath": "/Users/maaikevanputten/Projects/jan-course2/GenericVoorbeeld/obj/",
+        "outputPath": "/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maaikevanputten/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/bin/Debug/net7.0/exceptionsEnzo
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/bin/Debug/net7.0/exceptionsEnzo.deps.json
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/bin/Debug/net7.0/exceptionsEnzo.runtimeconfig.json
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/bin/Debug/net7.0/exceptionsEnzo.dll
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/bin/Debug/net7.0/exceptionsEnzo.pdb
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.csproj.AssemblyReference.cache
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.AssemblyInfoInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.AssemblyInfo.cs
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.csproj.CoreCompileInputs.cache
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.dll
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/refint/exceptionsEnzo.dll
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.pdb
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/exceptionsEnzo.genruntimeconfig.cache
+/Users/maaikevanputten/Projects/jan-course2/exceptionsEnzo/obj/Debug/net7.0/ref/exceptionsEnzo.dll
